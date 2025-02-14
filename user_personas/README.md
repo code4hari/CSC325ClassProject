@@ -1,1 +1,1 @@
-These are the user personas
+Directory containing the personas for the project
