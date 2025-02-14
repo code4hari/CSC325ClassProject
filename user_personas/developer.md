@@ -8,8 +8,7 @@
 - Collaborate effectively with the team.  
 
 **Challenges & Pain Points:**  
-- Poor documentation can slow development.  
-- Needs a structured issue tracking system.  
+- Bad Documentation
 
 **Scenario:**  
-John uses GitHub issues to track bugs and new features. They rely on clear documentation and version control to work efficiently.
+John is creating a personal portfolio website to apply to jobs and uses guthub to store all his code.
